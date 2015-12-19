@@ -1,0 +1,7 @@
+﻿  MainForm.cpp
+d:\studfiles\course\scheme draw\scheme draw\MainForm.h(517): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\studfiles\course\scheme draw\scheme draw\MainForm.h(518): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  textDialogForm.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Scheme Draw.vcxproj -> D:\StudFiles\Course\Scheme Draw\Debug\Scheme Draw.exe
