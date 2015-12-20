@@ -1,7 +1,17 @@
-﻿  MainForm.cpp
-d:\studfiles\course\scheme draw\scheme draw\MainForm.h(517): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-d:\studfiles\course\scheme draw\scheme draw\MainForm.h(518): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  textDialogForm.cpp
-  Generating Code...
-  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
-  Scheme Draw.vcxproj -> D:\StudFiles\Course\Scheme Draw\Debug\Scheme Draw.exe
+﻿Build started 17.12.2015 22:31:32.
+     1>Project "D:\Work\Programming\Scheme draw\Scheme Draw\Scheme Draw\Scheme Draw.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MainForm.cpp
+         MainForm.cpp
+     1>d:\work\programming\scheme draw\scheme draw\scheme draw\MainForm.h(517): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>d:\work\programming\scheme draw\scheme draw\scheme draw\MainForm.h(518): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Work\Programming\Scheme draw\Scheme Draw\Debug\Scheme Draw.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\SchemeDraw.MainForm.resources /ASSEMBLYRESOURCE:Debug\SchemeDraw.textDialogForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Work\Programming\Scheme draw\Scheme Draw\Debug\Scheme Draw.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MainForm.obj
+         Debug\textDialogForm.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         Scheme Draw.vcxproj -> D:\Work\Programming\Scheme draw\Scheme Draw\Debug\Scheme Draw.exe
+     1>Done Building Project "D:\Work\Programming\Scheme draw\Scheme Draw\Scheme Draw\Scheme Draw.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.65
